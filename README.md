@@ -78,13 +78,10 @@ programação e pixel art feitas por mim, do zero.
 ---
 
 ## `// estatísticas`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=niludev02&show_icons=true&theme=transparent&hide_border=true&title_color=f4f2ee&text_color=f4f2ee&icon_color=6ee86e&bg_color=0a0a0a" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niludev02&layout=compact&theme=transparent&hide_border=true&title_color=f4f2ee&text_color=f4f2ee&bg_color=0a0a0a" />
-
+<div>
+<a href="https://github.com/niludev02">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
